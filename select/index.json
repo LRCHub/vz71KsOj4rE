@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ラムネ",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-01-13T23:24:28.812731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラムネ",
+      "artist": "青い子",
+      "has_synced": true,
+      "path": "select/01_ラムネ_青い子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラムネ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/02_ラムネ_indigo_la_End.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラムネ",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/03_ラムネ_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラムネ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_ラムネ_indigo_la_End.txt"
+    }
+  ]
+}
